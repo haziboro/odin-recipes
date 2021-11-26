@@ -1,0 +1,23 @@
+html{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.recipe-img {
+    display: block;
+    width: 300px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.box{
+    width: 400px;
+    height: auto;
+    background-color: rgb(255, 188, 101);
+}
+
+.heading {
+    background-color: salmon;
+    color:seagreen;
+    text-align: center;
+}
